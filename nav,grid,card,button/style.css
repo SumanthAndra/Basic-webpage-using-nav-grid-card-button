@@ -1,0 +1,10 @@
+body {
+    min-height: 75rem;
+    padding-top: 4.5rem;
+}
+.navbar-dark{
+  background-color: blue!important;
+}
+.text-right{
+  text-align: right;
+}
